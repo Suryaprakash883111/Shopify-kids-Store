@@ -109,7 +109,7 @@ const Footer = () => {
         <Row className="footer-bottom">
           <Col md={6}>
             <p className="copyright">
-              © {currentYear}Surya Prakash @ Prakash883111@gmail.com 2025. All rights reserved.
+              © {currentYear}  Surya Prakas Prakash883111@gmail.com    All rights reserved.
             </p>
           </Col>
           <Col md={6} className="text-md-end">
